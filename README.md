@@ -28,6 +28,6 @@ Keywords: Mineral Prospect mapping (MPM); Random Forest; Support Vector machine;
 Anomaly Detection, Multispectral data
 
 ## Methodology
-![Methology workflow](predictingMinerals.png)
+![Methology workflow](img/predictingMinerals.png)
 ## Result (Predicted Map)
-![Methology workflow](results.JPG)
+![Methology workflow](img/results.JPG)
