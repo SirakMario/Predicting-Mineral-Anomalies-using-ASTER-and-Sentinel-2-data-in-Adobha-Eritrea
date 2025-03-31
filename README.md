@@ -28,6 +28,6 @@ Keywords: Mineral Prospect mapping (MPM); Random Forest; Support Vector machine;
 Anomaly Detection, Multispectral data
 
 ## Methodology
-![Methology workflow]("https://github.com/SirakMario/Predicting-Mineral-Anomalies-using-ASTER-and-Sentinel-2-data-in-Adobha-Eritrea/blob/main/predictingMinerals.png")
+![Methology workflow](predictingMinerals.png)
 ## Result (Predicted Map)
-![Methology workflow]("https://github.com/SirakMario/Predicting-Mineral-Anomalies-using-ASTER-and-Sentinel-2-data-in-Adobha-Eritrea/blob/main/results.JPG")
+![Methology workflow](results.JPG")
