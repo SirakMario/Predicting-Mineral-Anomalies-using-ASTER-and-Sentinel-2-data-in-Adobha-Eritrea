@@ -30,4 +30,4 @@ Anomaly Detection, Multispectral data
 ## Methodology
 ![Methology workflow](predictingMinerals.png)
 ## Result (Predicted Map)
-![Methology workflow](results.JPG")
+![Methology workflow](results.JPG)
