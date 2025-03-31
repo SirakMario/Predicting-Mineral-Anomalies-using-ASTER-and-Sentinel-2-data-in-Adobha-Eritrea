@@ -1,5 +1,7 @@
 # Predicting Mineral Anomalies using ASTER and Sentinel-2 data in Adobha, Eritrea
 
+## Abstract
+
 Mineral Prospect Mapping (MPM) plays a major role in identifying economical minerals deposits,
 particularly in arid regions with minimal vegetation cover. However, most MPM methods require
 extensive geochemical parameters, including multi element analyses and concentration
@@ -24,3 +26,7 @@ regions, providing a practical framework for large-scale prospecting campaigns.
 
 Keywords: Mineral Prospect mapping (MPM); Random Forest; Support Vector machine;
 Anomaly Detection, Multispectral data
+
+## Methodology
+
+## Result (Predicted Map)
