@@ -24,7 +24,7 @@ parameters when combined with satellite-derived alteration indices and machine l
 methodology offers a cost-effective approach for initial mineral exploration in understudied
 regions, providing a practical framework for large-scale prospecting campaigns.
 </p>
-Keywords: Mineral Prospect mapping (MPM); Random Forest; Support Vector machine;
+<b>Keywords</b>: Mineral Prospect mapping (MPM); Random Forest; Support Vector machine;
 Anomaly Detection, Multispectral data
 
 ## Methodology
