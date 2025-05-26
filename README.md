@@ -1,4 +1,5 @@
-# Predicting Mineral Anomalies using ASTER and Sentinel-2 data in Adobha, Eritrea
+# Multispectral Image Analysis of ASTER and Sentinel-2 Satellite Data for Mineral Exploration
+Using Machine Learning Algorithms (Thesis)
 
 ## Abstract
 <p align="justify">
