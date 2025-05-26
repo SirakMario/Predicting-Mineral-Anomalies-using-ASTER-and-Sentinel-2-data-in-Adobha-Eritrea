@@ -1,5 +1,4 @@
-# Multispectral Image Analysis of ASTER and Sentinel-2 Satellite Data for Mineral Exploration
-Using Machine Learning Algorithms (Thesis)
+# Multispectral Image Analysis of ASTER and Sentinel-2 Satellite Data for Mineral Exploration Using Machine Learning Algorithms (Thesis)
 
 ## Abstract
 <p align="justify">
